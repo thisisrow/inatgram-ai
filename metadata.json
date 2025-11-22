@@ -1,0 +1,5 @@
+{
+  "name": "SocialAI - Instagram Manager",
+  "description": "A React application to view Instagram insights and generate AI-powered captions using Gemini.",
+  "requestFramePermissions": []
+}
